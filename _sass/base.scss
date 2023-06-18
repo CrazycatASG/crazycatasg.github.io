@@ -1,0 +1,15 @@
+$backgroundColor: #969595;
+$bodyColor: #000000;
+$bodyFont: monospace;
+$max-width: 1000px;
+$margin: auto;
+$font-size: 20px;
+
+body {
+  background: $backgroundColor;
+  color: $bodyColor;
+  font-family: $bodyFont;
+  max-width: $max-width;
+  margin: $margin;
+  font-size: $font-size;
+}
