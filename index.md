@@ -22,5 +22,3 @@ Here's my ramblings and other things (AKA my blog).
 <a rel="me" href="https://mstdn.games/@enderasg">
  <img src="assets\images\mastodon-logo-black.svg" alt="Mastodon" style="width:42px;height:42px;"> 
 </a> 
-
-<a rel="me" href="https://mstdn.games/@enderasg">testing linkback</a>
