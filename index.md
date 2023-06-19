@@ -3,6 +3,23 @@ layout: default
 title: "The Crazy Cafe!"
 ---
 
-## Hi there!
+# Hi there!
 
 Welcome to The Crazy Cafe, AKA, Crazycat's personal website. This serves as my blog, and a lot of different purposes, including a whole (soon to be built) ARG contained within it :O
+It's still unfinished, but so far pretty navigatable! 
+
+Here's my ramblings and other things (AKA my blog).
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+
+<a href="https://mstdn.games/@enderasg">
+ <img src="assets\images\mastodon-logo-black.svg" alt="Mastodon" style="width:42px;height:42px;"> 
+</a> 
+
