@@ -10,7 +10,7 @@ It's still unfinished, but so far pretty navigatable!
 
 Here's a bunch of things you might like:
 
-[My random thoughts and ideas, AKA my blog](things_you_might_like\blog)
+[My random thoughts and ideas, AKA my blog](things_you_might_like\blog) <br>
 [Here's where you can find me](things_you_might_like\links.md)
 
 <a rel="me" href="https://mstdn.games/@enderasg">
