@@ -9,7 +9,7 @@ title: Other places you can find me
 
 [Mastodon](https://mstdn.games/@enderasg)
 
-[Youtube][https://youtube.com/@CrazycatASG], and [another Youtube](https://youtube.com/@BrokenGameboy)
+[Youtube](https://youtube.com/@CrazycatASG), and [another Youtube](https://youtube.com/@BrokenGameboy)
 
 <footer>
     <h6><a href="/">Click here to go back.</a></h6>
