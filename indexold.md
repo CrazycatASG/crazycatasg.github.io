@@ -16,6 +16,3 @@ Here's a bunch of things you might like:
 
 [A bit of writing from time to time](things_you_might_like\literature)
 
-<a rel="me" href="https://mstdn.games/@enderasg">
- <img src="assets\images\mastodon-logo-black.svg" alt="Mastodon" style="width:42px;height:42px;"> 
-</a> 
