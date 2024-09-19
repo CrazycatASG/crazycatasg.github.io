@@ -1,6 +1,15 @@
 ---
 layout: default
-title: "nada"
+title: "The Crazy Cafe!"
 ---
 
-pending a full rebuild, this website has been indefinitely archived. you may still view the original website by appending /indexold.html to the link
+# Hi there!
+
+I'm Hail, somewhat decent programmer interested in cybersec, game development and writing. This site is still unfinished, but so far pretty navigatable.
+
+Here's a bunch of things you might like:
+
+[My random thoughts and ideas.](things_you_might_like\blog) <br>
+
+[A bit of writing from time to time](things_you_might_like\literature)
+
