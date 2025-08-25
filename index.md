@@ -11,5 +11,7 @@ Here's a bunch of things you might like:
 
 [My random thoughts and ideas.](things_you_might_like\blog) <br>
 
-[A bit of writing from time to time](things_you_might_like\literature)
+[A bit of writing from time to time](things_you_might_like\literature) <br>
+
+[Resist the Online Safety Bill: A site critiquing British and European mass surveillance](https://crazycatasg.github.io/anti-osa/)
 
