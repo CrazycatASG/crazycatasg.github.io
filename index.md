@@ -2,6 +2,7 @@
 layout: default
 title: "The Crazy Cafe!"
 ---
+<script src="https://keepandroidopen.org/banner.js"></script>
 
 # Hi there!
 
@@ -15,5 +16,5 @@ Here's a bunch of things you might like:
 
 Here's a list of projects I'm officially working on.
 
-[Resist the Online Safety Bill: A site critiquing British and European mass surveillance](https://crazycatasg.github.io/anti-osa/)
+[Resist the Online Safety Act: A site critiquing European, especially British mass surveillance](https://crazycatasg.github.io/anti-osa/)
 
